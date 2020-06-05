@@ -1,11 +1,11 @@
-// require("dotenv").config();
+require("dotenv").config();
 const express = require("express");
 const path = require("path");
 const PORT = process.env.PORT || 8080;
 let mongoose = require("mongoose");
 let db = require("./models");
 
-mongoose.connect("mongodb://localhost/workout", {
+mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useFindAndModify: false,
 });
