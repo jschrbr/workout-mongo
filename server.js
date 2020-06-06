@@ -1,4 +1,4 @@
-require("dotenv").config();
+// require("dotenv").config();
 const express = require("express");
 const PORT = process.env.PORT || 8080;
 let mongoose = require("mongoose");
