@@ -9,11 +9,13 @@
   </a>
 </p>
 
-> A simple deployed application utilising a noSQL database
+> A simple application, deployed using heroku, and utilises a noSQL database.
 
-### 🏠 [Homepage](place)
+### 🏠 [Homepage](https://github.com/jschrbr/workout-mongo)
 
 ### ✨ [Demo](workout-mongo.herokuapp.com)
+
+<img width="100%" src="./demo.gif">
 
 ## Install
 
@@ -37,13 +39,13 @@ npm run test
 
 👤 **James Schreiber**
 
-* Website: https://jschrbr.github.io/portfolio/
-* Github: [@jschrbr](https://github.com/jschrbr)
-* LinkedIn: [@techsmechs](https://linkedin.com/in/techsmechs)
+- Website: https://jschrbr.github.io/portfolio/
+- Github: [@jschrbr](https://github.com/jschrbr)
+- LinkedIn: [@techsmechs](https://linkedin.com/in/techsmechs)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](issues).
 
 ## Show your support
 
@@ -53,5 +55,6 @@ Give a ⭐️ if this project helped you!
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
